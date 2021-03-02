@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LOW COST CAMP BLOG</title>
+    <link>https://lowcostcamp.tk/</link>
+    <description>Recent content on LOW COST CAMP BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 02 Mar 2021 01:45:00 +0900</lastBuildDate><atom:link href="https://lowcostcamp.tk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>流木の薪 (0円)</title>
+      <link>https://lowcostcamp.tk/blog/001_driftwood/</link>
+      <pubDate>Tue, 02 Mar 2021 01:45:00 +0900</pubDate>
+      
+      <guid>https://lowcostcamp.tk/blog/001_driftwood/</guid>
+      <description>&lt;p&gt;海岸には多くの流木が落ちています。拾って乾燥させることで薪にできます。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>自作バトニングナイフ (110円)</title>
+      <link>https://lowcostcamp.tk/blog/002_batoning_knife/</link>
+      <pubDate>Tue, 02 Mar 2021 01:45:00 +0900</pubDate>
+      
+      <guid>https://lowcostcamp.tk/blog/002_batoning_knife/</guid>
+      <description>&lt;p&gt;110円のはさみを分解してバトニングナイフを作りました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>自作焚き火台1号機 (220円)</title>
+      <link>https://lowcostcamp.tk/blog/003_firepit01/</link>
+      <pubDate>Tue, 02 Mar 2021 01:45:00 +0900</pubDate>
+      
+      <guid>https://lowcostcamp.tk/blog/003_firepit01/</guid>
+      <description>&lt;p&gt;ダイソーのワイヤーバスケットとアルミプレートで焚き火台を作りました。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
