@@ -2,6 +2,7 @@
 showonlyimage = false
 draft = false
 image = "/img/blog/001_driftwood.jpg"
+images = ["/img/blog/001_driftwood.jpg"]
 publishDate = "2021-03-02T01:45:00+09:00"
 title = "流木の薪 (0円)"
 categories = "燃料"

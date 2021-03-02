@@ -2,6 +2,7 @@
 showonlyimage = false
 draft = false
 image = "/img/blog/003_kansei.jpg"
+images = ["/img/blog/003_kansei.jpg"]
 publishDate = "2021-03-02T01:45:00+09:00"
 title = "自作焚き火台1号機 (220円)"
 categories = "キャンプギア"

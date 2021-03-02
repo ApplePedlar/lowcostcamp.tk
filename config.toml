@@ -14,8 +14,11 @@ canonifyurls = true
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "green"
+  title = "LOW COST CAMP BLOG"
   description = "なるべくお金をかけずにキャンプを楽しむためのブログです。"
+  images = ["/img/ogp.png"]
   copyright = "&copy;2021 hatayan_outdoor"
+  twitterID = "hatayan_outdoor"
   sidebarAbout = [
     "なるべくお金をかけずにキャンプを楽しむためのブログです。"
   ]
