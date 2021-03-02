@@ -1,0 +1,8 @@
+/* your styles go here */
+.date {
+  color: #888888;
+  margin-top: -10px;
+  padding-bottom: 10px;
+  font-size: 14px;
+  text-align: right;
+}
