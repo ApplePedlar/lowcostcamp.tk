@@ -6,7 +6,7 @@ images = ["/img/blog/004_saws.jpg"]
 publishDate = "2021-03-08T00:20:00+09:00"
 title = "ノコギリ (110〜330円)"
 categories = "キャンプギア"
-weight = 4
+weight = 0
 +++
 100円ショップで購入したコンパクトなノコギリを紹介します。
 <!--more-->

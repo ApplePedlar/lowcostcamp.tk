@@ -1,4 +1,7 @@
 /* your styles go here */
+body {
+  font-size: 16px;
+}
 .date {
   color: #888888;
   margin-top: -10px;

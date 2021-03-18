@@ -6,7 +6,7 @@ images = ["/img/blog/002_batoning.jpg"]
 publishDate = "2021-03-02T01:45:00+09:00"
 title = "自作バトニングナイフ (110円)"
 categories = "キャンプギア"
-weight = 2
+weight = 0
 +++
 110円のはさみを分解してバトニングナイフを作りました。
 <!--more-->

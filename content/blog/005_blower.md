@@ -6,7 +6,7 @@ images = ["/img/blog/005_blower04.jpg"]
 publishDate = "2021-03-08T20:00:00+09:00"
 title = "火吹き棒 (110円)"
 categories = "キャンプギア"
-weight = 5
+weight = 0
 +++
 100円ショップで購入した伸びる棒を分解して火吹き棒を作りました。
 <!--more-->
