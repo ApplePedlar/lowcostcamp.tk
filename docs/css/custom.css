@@ -18,3 +18,8 @@ body {
 .sidebar-p {
   color: #999999;
 }
+
+.content-column-content .img-responsive {
+  margin: 0 auto;
+  max-width: 500px;
+}
