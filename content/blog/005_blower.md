@@ -1,15 +1,14 @@
 +++
 showonlyimage = false
 draft = false
-image = "/img/blog/005_blower04.jpg"
-images = ["/img/blog/005_blower04.jpg"]
+image = "/img/blog/005_blower10.jpg"
+images = ["/img/blog/005_blower10.jpg"]
 publishDate = "2021-03-08T20:00:00+09:00"
 title = "火吹き棒 (110円)"
-categories = "キャンプギア"
+categories = "焚き火関連"
 weight = 0
+summary = "太い・長い・安い。"
 +++
-ダイソーで太くて長い火吹き棒を見つけました。
-<!--more-->
 いままで100円ショップで買える火吹き棒は40センチ程度の短いものしか見かけませんでした。
 
 伸縮する棒が使われた製品(指示棒など)を分解して作る場合は細いものしか作れませんでした。

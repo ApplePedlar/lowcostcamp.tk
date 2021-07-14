@@ -5,12 +5,10 @@ image = "/img/blog/008_skillet_20.jpg"
 images = ["/img/blog/008_skillet_20.jpg"]
 publishDate = "2021-07-08T22:10:00+09:00"
 title = "スキレット (330円)"
-categories = "キャンプギア"
+categories = "調理器具"
 weight = 0
+summary = "スキレットは便利！"
 +++
-スキレットは便利！
-<!--more-->
-----
 ダイソーでスキレットM(330円)を購入しました。
 
 ![008_skillet_01](/img/blog/008_skillet_01.jpg)

@@ -1,29 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LOW COST CAMP BLOG</title>
-    <link>https://lowcostcamp.tk/blog/</link>
-    <description>Recent content on LOW COST CAMP BLOG</description>
+    <title>焚き火関連 on LOW COST CAMP BLOG</title>
+    <link>https://lowcostcamp.tk/categories/%E7%84%9A%E3%81%8D%E7%81%AB%E9%96%A2%E9%80%A3/</link>
+    <description>Recent content in 焚き火関連 on LOW COST CAMP BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language><atom:link href="https://lowcostcamp.tk/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>LEDランタン (210円〜)</title>
-      <link>https://lowcostcamp.tk/blog/009_lantern/</link>
-      <pubDate>Wed, 14 Jul 2021 23:30:00 +0900</pubDate>
-      
-      <guid>https://lowcostcamp.tk/blog/009_lantern/</guid>
-      <description>夜のお供</description>
-    </item>
-    
-    <item>
-      <title>スキレット (330円)</title>
-      <link>https://lowcostcamp.tk/blog/008_skillet/</link>
-      <pubDate>Thu, 08 Jul 2021 22:10:00 +0900</pubDate>
-      
-      <guid>https://lowcostcamp.tk/blog/008_skillet/</guid>
-      <description>スキレットは便利！</description>
-    </item>
-    
+    <language>ja-jp</language>
+    <lastBuildDate>Wed, 07 Jul 2021 01:25:00 +0900</lastBuildDate><atom:link href="https://lowcostcamp.tk/categories/%E7%84%9A%E3%81%8D%E7%81%AB%E9%96%A2%E9%80%A3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>書類トレー焚き火台 (550円)</title>
       <link>https://lowcostcamp.tk/blog/007_firepit05/</link>

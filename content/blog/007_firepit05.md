@@ -5,12 +5,10 @@ image = "/img/blog/007_firepit05_05.jpg"
 images = ["/img/blog/007_firepit05_05.jpg"]
 publishDate = "2021-07-07T01:25:00+09:00"
 title = "書類トレー焚き火台 (550円)"
-categories = "キャンプギア"
+categories = "焚き火関連"
 weight = 0
+summary = "コンパクトに収納可能！"
 +++
-書類トレーを焚き火台にしました。
-<!--more-->
-----
 ダイソーで組み立て式3段書類トレー(550円)を見つけました。
 
 ![007_firepit05_01](/img/blog/007_firepit05_01.jpg)

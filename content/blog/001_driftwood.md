@@ -5,7 +5,7 @@ image = "/img/blog/001_driftwood.jpg"
 images = ["/img/blog/001_driftwood.jpg"]
 publishDate = "2021-03-02T01:45:00+09:00"
 title = "流木の薪 (0円)"
-categories = "燃料"
+categories = "焚き火関連"
 weight = 0
 +++
 海岸には多くの流木が落ちています。拾って乾燥させることで薪にできます。

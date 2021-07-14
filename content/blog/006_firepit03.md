@@ -5,7 +5,7 @@ image = "/img/blog/006_firepit03_17.jpg"
 images = ["/img/blog/006_firepit03_17.jpg"]
 publishDate = "2021-03-18T22:00:00+09:00"
 title = "六角形焚き火台 (440円)"
-categories = "キャンプギア"
+categories = "焚き火関連"
 weight = 0
 +++
 憧れの六角形焚き火台を自作しました。

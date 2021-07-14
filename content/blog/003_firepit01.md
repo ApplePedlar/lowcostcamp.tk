@@ -5,7 +5,7 @@ image = "/img/blog/003_kansei.jpg"
 images = ["/img/blog/003_kansei.jpg"]
 publishDate = "2021-03-02T01:45:00+09:00"
 title = "ワイヤーバスケット焚き火台 (220円)"
-categories = "キャンプギア"
+categories = "焚き火関連"
 weight = 0
 +++
 ダイソーのワイヤーバスケットとアルミプレートで焚き火台を作りました。
